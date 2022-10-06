@@ -1,0 +1,12 @@
+name: streamlit_venv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - scikit-learn
+  - ca-certificates
+  - openssl
+  - streamlit
+prefix: D:\Python\Conda\envs\streamlit_venv
